@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doubleduoYT.github.io/Casualties_Mobile/sitemap.xml
