@@ -2,7 +2,7 @@
 
 **Casualties: Unknown Mobile** is an independent, fan-made Android port of *Casualties: Unknown*, originally created by Orsoniks. The port is developed by HGSoft (DoubDu).
 
-Project page: https://doubleduoYT.github.io/Casualties_Mobile/
+Project page: https://doubleduoyt.github.io/Casualties_Mobile/index.html
 
 [Download all versions](https://drive.google.com/drive/u/0/mobile/folders/1ATG3-bTADgak6YzOzK6TTO9h_JXW2nsx) · [Join the Discord server](https://discord.gg/Rjkj854cgg)
 
